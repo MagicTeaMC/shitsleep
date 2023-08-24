@@ -1,4 +1,4 @@
 name: shitsleep
 version: '${project.version}'
-main: org.milkteamc.shitsleep.Shitsleep
+main: org.milkteamc.shitsleep.shitsleep
 api-version: '1.20'
